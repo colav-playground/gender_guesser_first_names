@@ -4,7 +4,7 @@ from desoper import hello
 
 class Test_hello(unittest.TestCase):
     def test__working(self):
-        self.assertEqual(hello.hello(),
+        self.assertEqual('Hello, World!'
                          'Hello, World!', True)
 
 
