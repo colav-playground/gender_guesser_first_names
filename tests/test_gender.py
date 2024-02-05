@@ -4,7 +4,7 @@ import unittest
 
 class Test_hello(unittest.TestCase):
     def test__working(self):
-        self.assertEqual('Hello, World!'
+        self.assertEqual('Hello, World!',
                          'Hello, World!', True)
 
 
