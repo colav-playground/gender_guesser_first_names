@@ -37,7 +37,7 @@ def main():
         name="gender_guesser_first_names",
 
         # Version number (initial):
-        version="0.0.6",
+        version="0.0.7",
 
         # Application author details:
         author="restrepo",
@@ -62,7 +62,7 @@ def main():
 
         # Dependent packages (distributions)
         # See: https://github.com/pypa/pipenv/issues/2171
-        # install_requires=[],
+        install_requires=["gender-guesser" >=0.4.0],
     )
 
 
