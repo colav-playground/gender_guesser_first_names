@@ -62,7 +62,7 @@ def main():
 
         # Dependent packages (distributions)
         # See: https://github.com/pypa/pipenv/issues/2171
-        install_requires=["gender-guesser" >=0.4.0],
+        install_requires=['gender-guesser>=0.4.0'],
     )
 
 
