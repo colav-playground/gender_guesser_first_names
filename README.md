@@ -10,7 +10,7 @@ Changes [`gender_guesser`](https://pypi.org/project/gender-guesser/) by:
 
 ## Install
 ```bash
-$ pip install 
+$ pip install gender-guesser-first-names
 ```
 ## USAGE
 ```python
