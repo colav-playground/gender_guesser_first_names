@@ -37,7 +37,7 @@ def main():
         name="gender_guesser_first_names",
 
         # Version number (initial):
-        version="0.0.8",
+        version="0.0.9",
 
         # Application author details:
         author="restrepo",
