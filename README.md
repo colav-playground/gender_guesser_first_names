@@ -1,4 +1,4 @@
-# Template for GitHub actions for DevOps
+# gender-guesser with first names and full countries
 
 ![Python package](https://github.com/colav-playground/gender_guesser_first_names/workflows/Python%20package/badge.svg)
 ![Upload Python Package](https://github.com/colav-playground/gender_guesser_first_names/workflows/Upload%20Python%20Package/badge.svg)
