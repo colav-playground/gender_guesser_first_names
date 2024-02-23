@@ -37,7 +37,7 @@ def main():
         name="gender_guesser_first_names",
 
         # Version number (initial):
-        version="0.1.0",
+        version="0.1.1",
 
         # Application author details:
         author="restrepo",
@@ -50,11 +50,11 @@ def main():
         include_package_data=True,
 
         # Details
-        url="https://github.com/restrepo/DevOps",
+        url="https://github.com/colav-playground/gender_guesser_first_names",
 
         license="BSD",
 
-        description="Hello World!",
+        description="gender-guesser modified to use first names as input, and allows all the countries",
 
         long_description=open("README.md").read(),
 
